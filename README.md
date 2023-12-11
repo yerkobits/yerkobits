@@ -5,8 +5,8 @@
 
 ![yerkobits GitHub stats](https://github-readme-stats.vercel.app/api?username=yerkobits&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yerkobits&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 
 ### Languages I'm good at
