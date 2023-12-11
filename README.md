@@ -1,12 +1,17 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I'm+a+learning+developer...;fan+of+AI+and+Blockchain+and+Web3;...looking+to+contribute.)](https://git.io/typing-svg)
 
 
 ### Here's my GitHub stats:
 
 ![yerkobits GitHub stats](https://github-readme-stats.vercel.app/api?username=yerkobits&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yerkobits&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yerkobits&theme=radical)
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark&title=MultiLanguage,Repositories,Experience,Commits)
+![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark&title=Followers,Stars,Issues,PullRequest)
+
+![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 
 ### Languages I'm good at
@@ -14,12 +19,13 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### Technologies  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
+### Technologies  
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +43,7 @@
 ![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) -->
 
 <!--
-### Competitive Programming Profiles (Judge me by my Prime) -->
+### Competitive Programming Profiles -->
 <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
 <!--
 <a href="https://leetcode.com/yerkobits/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
@@ -46,12 +52,14 @@
 <a href="https://www.hackerrank.com/yerkobits?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.hackerearth.com/@yerkobits">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 <br>
-[Atcoder](https://atcoder.jp/users/walleeva)
+[Atcoder](https://atcoder.jp/users/yerkobits)
 <br>
-[Toph](https://toph.co/u/mcqueen)
+[Toph](https://toph.co/u/yerkobits)
 <br>
-[LightOJ](https://lightoj.com/user/zubairahmedr)
-<br> -->
+[LightOJ](https://lightoj.com/user/yerkobits)
+<br> 
+-->
+
 
 ### Open Source 
 
@@ -63,9 +71,13 @@
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yerkobits) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/yerkobits)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/groups/prosusmoney) [![GitHub followers](https://img.shields.io/github/followers/yerkobits.svg?style=social&label=Followers)](https://github.com/yerkobits?tab=followers)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yerkobits) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/yerkobits)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/groups/prosusmoney)
 <br> <br>
-<!-- <b>Contador de visitas: </b> <img src="https://profile-counter.glitch.me/yerkobits/count.svg"> -->
+<!-- 
+[![GitHub followers](https://img.shields.io/github/followers/yerkobits.svg?style=social&label=Followers)](https://github.com/yerkobits?tab=followers)
+<b>Contador de visitas: </b> <img src="https://profile-counter.glitch.me/yerkobits/count.svg"> 
+-->
+
 
 
 
@@ -83,3 +95,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
