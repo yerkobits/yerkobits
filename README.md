@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+Word!;I'm+a+learning+developer...;fan+of+AI+and+Blockchain+and+Web3;...looking+to+contribute.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I'm+a+learning+developer...;fan+of+AI+and+Blockchain+and+Web3;...looking+to+contribute.)](https://git.io/typing-svg)
 
 
 ### Here's my GitHub stats:
@@ -57,13 +57,13 @@
 
 <a href="https://github.com/ProsusCorp/prosusmoney">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prosuscorp&repo=prosusmoney&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProsusCorp&repo=ProsusMoney&theme=onedark" />
 </a>  
 
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/yerkobits) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/yerkobits)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/groups/prosusmoney) [![GitHub followers](https://img.shields.io/github/followers/yerkobits.svg?style=social&label=Followers)](https://github.com/yerkobits?tab=followers)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yerkobits) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/yerkobits)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/groups/prosusmoney) [![GitHub followers](https://img.shields.io/github/followers/yerkobits.svg?style=social&label=Followers)](https://github.com/yerkobits?tab=followers)
 <br> <br>
 <!-- <b>Contador de visitas: </b> <img src="https://profile-counter.glitch.me/yerkobits/count.svg"> -->
 
