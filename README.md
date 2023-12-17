@@ -12,6 +12,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark&title=Followers,Stars,Issues,PullRequest)
 
 ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+<br> <br>
 
 
 ### Languages I'm good at
@@ -22,6 +23,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<br> <br>
 
 
 ### Technologies  
@@ -34,6 +36,8 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-ED8B00?style=for-the-badge&logo=bitcoin&logoColor=white)
+<br> <br>
+
 
 <!--
 ### Learning 
@@ -67,6 +71,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProsusCorp&repo=ProsusMoney&theme=onedark" />
 </a>  
+<br> <br>
 
 
 <h2>Connect with me!</h2>
