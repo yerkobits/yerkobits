@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I'm+a+learning+developer...;fan+of+AI+and+Blockchain+and+Web3;...looking+to+contribute.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I+am+a+scientist+developer...;...fan+of+AI+and+Blockchain...;...looking+to+contribute.)](https://git.io/typing-svg)
 
 
 ### Here's my GitHub stats:
@@ -61,7 +61,7 @@
 -->
 
 
-### Open Source 
+### Collaborate with this project
 
 <a href="https://github.com/ProsusCorp/prosusmoney">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
