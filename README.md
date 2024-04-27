@@ -64,7 +64,7 @@
 -->
 
 
-### Collaborate with this project
+### Collaborate with one of my projects
 
 <a href="https://github.com/ProsusCorp/prosusmoney">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
