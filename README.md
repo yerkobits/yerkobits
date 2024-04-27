@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I+am+a+computational+scientist...;...fan+of+AI+and+Blockchain...;...looking+to+contribute.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=0D597F&size=30&lines=Hello+World!;I+work+in+reverse+engineering...;...learning+AI+and+Blockchain...;...looking+to+contribute.)](https://git.io/typing-svg)
 
 
 ### Here's my GitHub stats:
