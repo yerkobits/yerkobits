@@ -11,7 +11,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark&title=MultiLanguage,Repositories,Experience,Commits)
 ![trophy](https://github-profile-trophy.vercel.app/?username=yerkobits&theme=onedark&title=Followers,Stars,Issues,PullRequest)
 
-![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+<!-- ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yerkobits&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
 <br> <br>
 
 
